@@ -1,0 +1,6 @@
+name = Ahmed Bendary's Work
+core = 7.x
+package = Features
+version = 7.x-1.0
+project = ahmed_bendary_s_work
+features[features_api][] = api:2
