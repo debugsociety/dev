@@ -419,13 +419,13 @@ function junaid_s_work_field_default_field_bases() {
     'type' => 'list_text',
   );
 
-  // Exported field_base: 'field_nearest_area_'
-  $field_bases['field_nearest_area_'] = array(
+  // Exported field_base: 'field_location'
+  $field_bases['field_location'] = array(
     'active' => 1,
     'cardinality' => 3,
     'deleted' => 0,
     'entity_types' => array(),
-    'field_name' => 'field_nearest_area_',
+    'field_name' => 'field_location',
     'foreign keys' => array(),
     'indexes' => array(
       'value' => array(
@@ -436,14 +436,14 @@ function junaid_s_work_field_default_field_bases() {
     'module' => 'list',
     'settings' => array(
       'allowed_values' => array(
-        0 => 'district of columbia',
-        1 => 'northern virginia',
-        2 => 'maryland',
+        'Washington DC' => 'Washington DC',
+        'Virginia' => 'Virginia',
+        'Maryland' => 'Maryland',
       ),
       'allowed_values_function' => '',
     ),
     'translatable' => 0,
-    'type' => 'list_float',
+    'type' => 'list_text',
   );
 
   // Exported field_base: 'field_no_smoking'
