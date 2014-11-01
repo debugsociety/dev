@@ -1,0 +1,15 @@
+th {
+	display: none;
+}
+tr {
+	background-color: white;
+}
+tbody tr.odd{
+	background: white;
+}
+.views-field {
+display: inline-block;
+}
+.views-label{
+	display: none;
+}
