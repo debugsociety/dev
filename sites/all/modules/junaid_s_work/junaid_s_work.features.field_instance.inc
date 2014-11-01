@@ -456,19 +456,19 @@ function junaid_s_work_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-housing_offered_-field_nearest_area_'
-  $field_instances['node-housing_offered_-field_nearest_area_'] = array(
+  // Exported field_instance: 'node-housing_offered_-field_location'
+  $field_instances['node-housing_offered_-field_location'] = array(
     'bundle' => 'housing_offered_',
     'default_value' => NULL,
     'deleted' => 0,
-    'description' => 'please note: your posting will also appear on the main washington, DC site. ',
+    'description' => '',
     'display' => array(
       'default' => array(
         'label' => 'above',
         'module' => 'list',
         'settings' => array(),
         'type' => 'list_default',
-        'weight' => 2,
+        'weight' => 21,
       ),
       'full' => array(
         'label' => 'above',
@@ -484,8 +484,8 @@ function junaid_s_work_field_default_field_instances() {
       ),
     ),
     'entity_type' => 'node',
-    'field_name' => 'field_nearest_area_',
-    'label' => 'Nearest Area ',
+    'field_name' => 'field_location',
+    'label' => 'Location',
     'required' => 0,
     'settings' => array(
       'user_register_form' => FALSE,
@@ -494,8 +494,8 @@ function junaid_s_work_field_default_field_instances() {
       'active' => 1,
       'module' => 'options',
       'settings' => array(),
-      'type' => 'options_buttons',
-      'weight' => -2,
+      'type' => 'options_select',
+      'weight' => 17,
     ),
   );
 
@@ -1185,7 +1185,7 @@ function junaid_s_work_field_default_field_instances() {
   t('Date');
   t('E-mail');
   t('Housing Type');
-  t('Nearest Area ');
+  t('Location');
   t('No Smoking');
   t('Phone Number');
   t('Please choose a Category ');
@@ -1199,7 +1199,6 @@ function junaid_s_work_field_default_field_instances() {
   t('ok for others to contact me via email ');
   t('open house dates');
   t('parking');
-  t('please note: your posting will also appear on the main washington, DC site. ');
   t('rent');
   t('sqft');
 
