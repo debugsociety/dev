@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Wanted by owner feature.
+ */
+
+include_once 'wanted_by_owner1.features.inc';
