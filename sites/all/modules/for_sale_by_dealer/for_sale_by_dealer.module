@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the For Sale by Dealer feature.
+ */
+
+include_once 'for_sale_by_dealer.features.inc';
