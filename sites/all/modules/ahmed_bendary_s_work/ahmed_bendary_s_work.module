@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the Ahmed Bendary's Work feature.
- */
-
-include_once 'ahmed_bendary_s_work.features.inc';

@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the Gig Offered feature.
- */
-
-include_once 'gig_offered.features.inc';

@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the Nagat's feature feature.
- */
-
-include_once 'nagat_s_feature.features.inc';

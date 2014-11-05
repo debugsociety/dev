@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the Junaid's work feature.
- */
-
-include_once 'junaid_s_work.features.inc';

@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the Ahmed Mouer feature.
- */
-
-include_once 'ahmed_mouer.features.inc';

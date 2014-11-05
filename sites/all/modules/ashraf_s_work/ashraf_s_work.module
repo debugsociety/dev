@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the Ashraf's work feature.
- */
-
-include_once 'ashraf_s_work.features.inc';
