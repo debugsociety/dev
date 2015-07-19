@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the AhmedM feature.
+ */
+
+include_once 'ahmedm.features.inc';

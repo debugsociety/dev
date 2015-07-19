@@ -1,0 +1,31 @@
+#header.with-secondary-menu{
+	background-image: none;
+	background-color: #DDD;
+	height: 50px;
+	min-height:24px;
+	
+	}
+
+#footer-wrapper {
+	background: none repeat scroll 0% 0% #DDD;
+	}
+	
+.views-field.views-field-created {
+	color: #808080;
+	font-size: 0.7em;
+	
+	}
+.views-field-field-location {
+	color: #222;
+	font: Inherit;
+	font-size: 0.9em;
+	
+	}
+.views-field-field-category-romance-iam, .views-field-field-category-romance-seeking
+{	color: blue;
+}
+#footer-wrapper {
+	height: 25px;
+	}
+
+
